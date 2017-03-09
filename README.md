@@ -110,4 +110,4 @@ If you see `Input error: Directory 'neo4j-community-3.0.3/data/databases/graph.d
 
 ##Page
 
-![Page](https://github.com/lucasjovencio/codeigniter-neo4j-movies-template/blob/newsPagesMovie/assets/img/model-page.png)
+![Page](https://github.com/lucasjovencio/codeigniter-neo4j-movies-template/blob/master/assets/img/model-page.png)
